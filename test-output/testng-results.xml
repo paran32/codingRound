@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66513" started-at="2019-07-17T13:20:39Z" finished-at="2019-07-17T13:21:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66513" started-at="2019-07-17T13:20:39Z" finished-at="2019-07-17T13:21:46Z">
+      <class name="com.testvargrant.selenium.test.HotelBookingTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.testvargrant.selenium.test.HotelBookingTest@2b98378d]" name="startUp" is-config="true" duration-ms="31516" started-at="2019-07-17T18:50:39Z" finished-at="2019-07-17T18:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="testHotelBooking()[pri:0, instance:com.testvargrant.selenium.test.HotelBookingTest@2b98378d]" name="testHotelBooking" duration-ms="31860" started-at="2019-07-17T18:51:11Z" finished-at="2019-07-17T18:51:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHotelBooking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testvargrant.selenium.test.HotelBookingTest@2b98378d]" name="tearDown" is-config="true" duration-ms="3076" started-at="2019-07-17T18:51:43Z" finished-at="2019-07-17T18:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testvargrant.selenium.test.HotelBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

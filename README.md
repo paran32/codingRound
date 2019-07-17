@@ -28,3 +28,7 @@ Problem Statement
 4. Make sure you make multiple check-ins in the process, we would love to see your progress bit by bit.
 5. Also check-in a separate file where you should list all your code review comments.
 6. Send us the link of your GitHub repo to **careers@testvagrant.com**. Also attach your **resume**.
+
+Solution Provided
+----------------------------------
+I have created Page Object Model(POM) with Data Driven Automation framework, which will provide high code reusability and easy maintenance of the code.
